@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Image Classifcation</title>
+  <script type="text/javascript" src = '/static/imgcls.js'></script>
+	
+	<style type="text/css">
+		th, td {
+  padding: 10px;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #555555;
+  color: white;
+  position: absolute;
+  width:100%;
+  bottom:0;
+}
+.circbutton {border-radius: 95%;}
+.buttonadd {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 2px 2px;
+}
+
+
+</style>
+
+</head>
+<body>
+<h1 align="middle" style="color: red">Image Classifcation</h1>
+<!-- <p style="color: black" align="middle"> <b> Click the button to adda a new class</b> </p> -->
+<div align="middle">
+  <script type="text/javascript" src = "static/imgcls.js"></script>
+  <button type="button" style="font-size: 26px;" class = "buttonadd" onclick="addNewClass()"> Add new class </button>
+  <form method ="POST"  enctype= "multipart/form-data" name = 'imgFtable' action = "/my-link/">
+  <table  id="imgTable">
+
+    <tr>
+    	<td>
+        <b>
+          Class Name
+        </b>
+      </td>
+    	<td>
+        <b>
+          Browse Files
+        </b>
+      </td>
+    </tr>
+
+  </table>
+
+    <button type="button" style="font-size: 30px;" class = "buttonadd" onclick="verifyData()"> Upload </button>
+
+  </form>
+</div>
+<footer>
+
+  <a href="mailto:roshantac@gmail.com">Email</a>
+
+</footer>
+
+</body>
+</html>
