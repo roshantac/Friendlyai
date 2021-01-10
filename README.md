@@ -1,6 +1,6 @@
 # Friendlyai
 This is being delveloped as a part of Eva4 Phase 2 assignment.
-Idea is to develop a clone of lobe.ai which facilitate creating of easy ML models for deployment.
+Idea is to develop a clone of https://lobe.ai/ which facilitate creating of easy ML models for deployment.
 ## Features of Current UI implentation
 - This UI is capable of taking class name and files as input.
 - Using Add button in the UI user can add upto 10 clasess .
