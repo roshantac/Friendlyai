@@ -10,7 +10,7 @@ Idea is to develop a clone of https://lobe.ai/ which facilitate creating of easy
 
 ## UI Screenshots
 
-**1 **
+**1**
 
 <img src="images/Capture1.JPG" alt="1" height="350"/>
 
