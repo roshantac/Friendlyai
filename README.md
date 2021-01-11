@@ -10,15 +10,15 @@ Idea is to develop a clone of https://lobe.ai/ which facilitate creating of easy
 
 ## UI Screenshots
 
-*** 1 ***
+**1 **
 <img src="images/Capture1.JPG" alt="1" height="350"/>
-*** 2 ***
+**2**
 <img src="images/Capture2.JPG" alt="2" height="350"/>
-*** 3 ***
+**3**
 <img src="images/Capture3.JPG" alt="3" height="350"/>
-*** 4 ***
+**4**
 <img src="images/Capture4.JPG" alt="4" height="350"/>
-*** 5 ***
+**5**
 <img src="images/Capture5.JPG" alt="5" height="350"/>
-*** 6 ***
+**6**
 <img src="images/Capture6.JPG" alt="6" height="350"/>
